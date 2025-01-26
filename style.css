@@ -1,0 +1,98 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #200000;
+    font-size: 60px;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(143, 143, 143);
+    border-radius: 10px;
+    padding: 1px;
+}
+
+header h2{
+    font-size: 40px;
+    text-align:center;
+}
+
+h2 {
+    color: #000000;
+    font-size: 45px;
+    text-align:left;
+}
+
+h3 {
+    font-size: 38px;
+}
+
+main p {
+    font-size: 23px;
+    color: #ffffffcc;
+    border: 5px solid #3f3f3f;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+main img {
+    border: 4px solid #3b3b3b;
+    width: 190px;
+    height: 200px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+nav a {
+    background-color: rgb(10, 10, 10);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 22px;
+    padding: 20px;
+    font-size: 17px;
+}
+
+nav {
+    text-align: center;
+    margin: 10px;
+}
+
+.logo {
+    width: 250px;
+    height: 200px;
+}
+
+main p {
+    color: #000000;
+}
+
+footer {
+    background-color: rgb(143, 143, 143);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+footer img {
+    width: 50px;
+    height: 40px;
+}
+
+table {
+    border-radius: 4px;
+    border:2px solid #200000;
+    font-size: 20px;
+}
+
+tr {
+    border-radius: 4px;
+    border:2px solid #200000;
+}
+
+td {
+    border-radius: 5px;
+    border: 2px solid #200000;
+}
